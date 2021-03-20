@@ -1,6 +1,6 @@
-# Tutorials
+# Game development learning guide
 
-# Youtubers
+## Youtubers
 * Unity
   * [Brackeys](https://www.youtube.com/user/Brackeys)
   * [Jason Weimann](https://www.youtube.com/channel/UCX_b3NNQN5bzExm-22-NVVg)
@@ -17,7 +17,7 @@
   * [Pixel Pete](https://www.youtube.com/user/MilkoDaily)
   * [Mort Mort](https://www.youtube.com/user/atMNRArt)
  
- # Tutorials
+## Tutorials
 * Unity
   * [Upscaling low resolution game](https://itch.io/t/129513/unity-guide-upscaling-your-low-rez-game)
   * [Particle Systems](https://learn.unity.com/tutorial/visual-effects-with-particles?language=en#5c7f8528edbc2a002053b57e)
