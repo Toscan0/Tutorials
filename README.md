@@ -1,7 +1,7 @@
 # Tutorials
 
 # Youtubers
- * Unity
+* Unity
   * [Brackeys](https://www.youtube.com/user/Brackeys)
   * [Jason Weimann](https://www.youtube.com/channel/UCX_b3NNQN5bzExm-22-NVVg)
   * [Jimmy Vegas](https://www.youtube.com/channel/UCRMXHQ2rJ9_0CHS7mhL7erg)
