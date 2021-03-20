@@ -1,5 +1,3 @@
-# Game development learning guide
-
 ## Youtubers
 * Unity
   * [Brackeys](https://www.youtube.com/user/Brackeys)
