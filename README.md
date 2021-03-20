@@ -20,7 +20,14 @@
  # Tutorials
 * Unity
   * [Upscaling low resolution game](https://itch.io/t/129513/unity-guide-upscaling-your-low-rez-game)
+  * [Particle Systems](https://learn.unity.com/tutorial/visual-effects-with-particles?language=en#5c7f8528edbc2a002053b57e)
+  * [Write your first shader](https://learn.unity.com/tutorial/writing-your-first-shader-in-unity#)
+  * [Begginer Angry Birds](https://www.youtube.com/watch?v=Lu76c85LhGY&list=PLB5_EOMkLx_VHKn4IISeNwhlDrb1948ZX&index=1)
+  * [Begginer Dragons game](https://www.youtube.com/watch?v=BL2u_6sSvcM&list=PLB5_EOMkLx_WCGalAUeKXA1I-qQqYY_Sk&index=2)
+  * [Intermediate GTA](https://www.youtube.com/playlist?list=PLZ1b66Z1KFKi_AxdUDtVX_fHT6IqzhV55)
 * Game Maker Studio 2
   * [Platformer game](https://www.youtube.com/playlist?list=PLPRT_JORnIupqWsjRpJZjG07N01Wsw_GJ)
 * Blender
-  * [Blender Guru](https://www.youtube.com/user/AndrewPPrice)
+  * [Begginer Tutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U)
+  * [Begginer Modelling Tutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgEL9UjPTLWQhLFAK7wVaRMR)
+  * [Intermediate Tutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a)
