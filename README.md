@@ -14,6 +14,8 @@
   * [Brandon James Greer](https://www.youtube.com/channel/UCC26K7LTSrJK0BPAUyyvtQg)
   * [Pixel Pete](https://www.youtube.com/user/MilkoDaily)
   * [Mort Mort](https://www.youtube.com/user/atMNRArt)
+* Game Design
+  * [Jonathan Blow](https://www.youtube.com/user/jblow888/)
  
 ## Tutorials
 * Unity
