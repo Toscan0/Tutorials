@@ -29,3 +29,8 @@
   * [Begginer Tutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U)
   * [Begginer Modelling Tutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgEL9UjPTLWQhLFAK7wVaRMR)
   * [Intermediate Tutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a)
+
+## Get a Job
+ * [How to get a game dev job](https://www.youtube.com/watch?v=tBO-RvTPETU&ab_channel=JasonWeimann)
+ * [5 tips](https://www.youtube.com/watch?v=NNOw7_e372E&ab_channel=MassiveEntertainment-AUbisoftStudio)
+ * [Self Taught](https://www.youtube.com/watch?v=bpSNBscjaDY&ab_channel=JasonWeimann)
