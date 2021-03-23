@@ -32,6 +32,17 @@
   * [Begginer Modelling Tutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgEL9UjPTLWQhLFAK7wVaRMR)
   * [Intermediate Tutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a)
 
+## Books
+* General:
+ * Game Code Complete 4th Edition, by Mike MCShaffry
+ * Clean Code, by Robert C. Martin
+ * Head First Design Patterns, by Elisabeth Freeman and Kathy Sierra
+ * Game Programming Patterns, by Robert Nystrom
+* Unity:
+ * Unity in Action: Multiplatform game development in C# 2nd Edition
+* C++:
+ * Effective Modern C++, by Scott Meyers   
+
 ## Get a Job
  * [How to get a game dev job](https://www.youtube.com/watch?v=tBO-RvTPETU&ab_channel=JasonWeimann)
  * [5 tips](https://www.youtube.com/watch?v=NNOw7_e372E&ab_channel=MassiveEntertainment-AUbisoftStudio)
