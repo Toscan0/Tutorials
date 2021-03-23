@@ -4,8 +4,10 @@
   * [Brackeys](https://www.youtube.com/user/Brackeys)
   * [Jason Weimann](https://www.youtube.com/channel/UCX_b3NNQN5bzExm-22-NVVg)
   * [Jimmy Vegas](https://www.youtube.com/channel/UCRMXHQ2rJ9_0CHS7mhL7erg)
+  * [Turbo Makes Games](https://www.youtube.com/channel/UCX4VrxYV1G9m7s5b5HbYuPw)
 * Unreal Engine 4
   * [Ryan Laley](https://www.youtube.com/channel/UCsS5i15vvUbwfr_1JdRKCAA)
+  * [Alex Forsythe](https://www.youtube.com/channel/UCJf_2Ea75Wub1FHe6YjQ7Qw)
 * Game Maker Studio 2
   * [Shaun Spalding](https://www.youtube.com/user/999Greyfox)
 * Blender
@@ -17,6 +19,7 @@
   * [Mort Mort](https://www.youtube.com/user/atMNRArt)
 * Game Design
   * [Jonathan Blow](https://www.youtube.com/user/jblow888/)
+  * [Game Maker's Toolkit](https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw)
  
 ## Tutorials
 
