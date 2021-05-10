@@ -36,6 +36,13 @@
   * [Begginer Tutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U)
   * [Begginer Modelling Tutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgEL9UjPTLWQhLFAK7wVaRMR)
   * [Intermediate Tutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a)
+* Godot
+  *  https://www.gdquest.com/tutorial/godot/learning-paths/developer/
+  *  https://www.gdquest.com/tutorial/godot/2d/your-first-game/
+  *  http://kidscancode.org/godot_recipes/
+  *  https://www.youtube.com/watch?v=42HKCFf5Lf4&list=PLhqJJNjsQ7KEcm-iYJ2a8UCRN62bTneKa&ab_channel=GDQuest
+  *  https://www.youtube.com/playlist?list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a
+
 
 ## Books
 
