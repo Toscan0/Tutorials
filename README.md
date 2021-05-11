@@ -10,6 +10,10 @@
   * [Alex Forsythe](https://www.youtube.com/channel/UCJf_2Ea75Wub1FHe6YjQ7Qw)
 * Game Maker Studio 2
   * [Shaun Spalding](https://www.youtube.com/user/999Greyfox)
+* Godot
+  * [GDQuest](https://www.youtube.com/c/gdquest)
+  * [Pigdev](https://www.youtube.com/c/pigdev)
+  * [johnnygossdev](https://www.youtube.com/c/johnnygossdev)
 * Blender
   * [Blender Guru](https://www.youtube.com/user/AndrewPPrice)
 * Aseprite
@@ -32,16 +36,16 @@
    * [Intermediate GTA](https://www.youtube.com/playlist?list=PLZ1b66Z1KFKi_AxdUDtVX_fHT6IqzhV55)
 * Game Maker Studio 2
   * [Platformer game](https://www.youtube.com/playlist?list=PLPRT_JORnIupqWsjRpJZjG07N01Wsw_GJ)
+* Godot
+  *  [Starting Series](https://www.youtube.com/playlist?list=PLhqJJNjsQ7KEcm-iYJ2a8UCRN62bTneKa)
+  *  [Godot Recipes](http://kidscancode.org/godot_recipes/)
+  *  [Learn Godot](https://www.gdquest.com/tutorial/godot/learning-paths/developer/)
+  *  [Begginer 2D Game](https://www.gdquest.com/tutorial/godot/2d/your-first-game/)
+  *  [Action RPG game](https://www.youtube.com/playlist?list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a)
 * Blender
   * [Begginer Tutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U)
   * [Begginer Modelling Tutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgEL9UjPTLWQhLFAK7wVaRMR)
   * [Intermediate Tutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a)
-* Godot
-  *  https://www.gdquest.com/tutorial/godot/learning-paths/developer/
-  *  https://www.gdquest.com/tutorial/godot/2d/your-first-game/
-  *  http://kidscancode.org/godot_recipes/
-  *  https://www.youtube.com/watch?v=42HKCFf5Lf4&list=PLhqJJNjsQ7KEcm-iYJ2a8UCRN62bTneKa&ab_channel=GDQuest
-  *  https://www.youtube.com/playlist?list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a
 
 
 ## Books
