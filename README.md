@@ -46,7 +46,8 @@
   * [Begginer Tutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U)
   * [Begginer Modelling Tutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgEL9UjPTLWQhLFAK7wVaRMR)
   * [Intermediate Tutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a)
-
+* Game Design
+  * [Level Design](https://www.youtube.com/watch?v=RwlnCn2EB9o&ab_channel=GameMaker%27sToolkit)
 
 ## Books
 
